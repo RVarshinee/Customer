@@ -1,6 +1,6 @@
 The customers can send the messages using API endpoint through a simple web form.
 
-Clone the project in Visual Studio Code. To run the project, use node server.js command.
+Clone the project in Visual Studio Code. To run the project, use "node server.js" command.
 
 Installations to be done:
 
